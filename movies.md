@@ -25,6 +25,7 @@
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
   - [Hidden Figures](#hidden-figures)
+  -[The Girl with the Dragon Tattoo](#The-Girl-with-the-Dragon-Tattoo)
 - [7.7 :star:](#_77)
   - [Minority Report](#minority-report)
   - [Ex Machina](#ex-machina)
@@ -197,6 +198,13 @@
 
    - The Social Network is about the establishment of one very popular website. This movie is about path young people to billionaire businesses.
 ([@greybax](https://github.com/greybax))
+
+#### The Girl with the Dragon Tattoo
+>A journalist is aided by a young female hacker in his search for the killer of a woman who has been dead for forty years.
+![The Girl with the Dragon Tattoo](assets/The_Girl_with_the_Dragon_Tattoo.jpg)
+*Year: 2011
+*Country: USA
+*[_IMDb_](https://www.imdb.com/title/tt1132620/)
 
 #### Office Space
 > Three company workers who hate their jobs decide to rebel against their greedy boss.
@@ -492,6 +500,13 @@
 * Year: 1985
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0090305/)
+
+#### The Hacker Wars
+>Ripped from international headlines, The Hacker Wars takes you to the front lines of the high-stakes battle over the fate of the Internet, freedom and privacy.
+![The Hacker Wars](assets/The_Hacker_Wars.jpg)
+* Year: 2014
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt4047350/?ref_=ttls_li_tt)
 
 #### Foolproof
 > Kevin, Sam and Rob are founding members of a theoretical group which pulls off heists. Leo, a gangster, blackmails them into pulling off a real multi-million dollar heist. Now it's up to them to get out alive.
